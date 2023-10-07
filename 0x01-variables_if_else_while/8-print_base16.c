@@ -1,5 +1,3 @@
-Task 8
-
 #include <stdio.h>
 
 
@@ -24,3 +22,4 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
+
