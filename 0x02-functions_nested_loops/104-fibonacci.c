@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 /**
  * main _ The main function
  * 1 and 2, seperated by a comma
@@ -49,3 +48,4 @@ int main(void)
 	printf("\n");
 	return (0);
 }
+
